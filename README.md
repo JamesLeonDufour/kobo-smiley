@@ -28,4 +28,10 @@ To build your Kobo Smiley feedback terminal, you'll need the following component
 - Buttons, Resistors, Cables, and LEDs - Around $2 USD
 - 3D-Printed Casing (under development) - Estimated cost of $1.5 USD
 
+## Further development
 
+- custom PCB integrating board and circuatery
+- esp32 code
+- detailled instruction
+- add image
+- 
