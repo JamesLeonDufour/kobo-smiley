@@ -24,7 +24,7 @@ Arduino - Visit the official Arduino website for additional information.
 
 To build your Kobo Smiley feedback terminal, you'll need the following components:
 
-- ESP8266 Microcontroller (ESP32 not supported) - Approximately $1.5 USD
+- ESP8266 Microcontroller (ESP32 code to be develloped) - Approximately $1.5 USD
 - Buttons, Resistors, Cables, and LEDs - Around $2 USD
 - 3D-Printed Casing (under development) - Estimated cost of $1.5 USD
 
