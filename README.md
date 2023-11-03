@@ -3,13 +3,15 @@ Kobo Smiley is a DIY affordable, user-friendly feedback terminal built around th
 
 ![WhatsApp Image 2023-11-03 at 9 47 36 PM](https://github.com/JamesLeonDufour/kobo-smiley/assets/6214012/519b8b87-c7cd-4be1-94af-86395e9f9925)
 
-
 ## Overview
 The Kobo Smiley terminal is a versatile feedback collection device. It powers up as an Access Point, allowing easy configuration via a captive portal. After setup, it can securely transmit data directly to the Kobo Toolbox API, making it an ideal choice for organizations and individuals looking to conduct surveys, gather feedback, or collect data.
 
 ## Key Links
-ESP8266 - Learn more about the ESP8266 microcontroller.
-Arduino - Visit the official Arduino website for additional information.
+
+[ESP8266 - Learn more about the ESP8266 microcontroller.](https://fr.wikipedia.org/wiki/ESP8266)
+[Arduino - Visit the official Arduino website for additional information.](https://www.arduino.cc/)
+(https://github.com/khoih-prog/ESPAsync_WiFiManager_Lite)
+https://www.kobotoolbox.org/
 
 
 ## Workflow
@@ -28,6 +30,8 @@ Arduino - Visit the official Arduino website for additional information.
 To build your Kobo Smiley feedback terminal, you'll need the following components:
 
 - ESP8266 Microcontroller (ESP32 code to be develloped) - Approximately $1.5 USD
+  <img width="108" alt="image" src="https://github.com/JamesLeonDufour/kobo-smiley/assets/6214012/f68aa2fe-2931-4594-a936-248f779ba379">
+
 - Buttons, Resistors, Cables, and LEDs - Around $2 USD
 - 3D-Printed Casing (under development) - Estimated cost of $1.5 USD
 
