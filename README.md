@@ -16,12 +16,24 @@ https://www.kobotoolbox.org/
 
 ## Workflow
 1. Create a Kobo Form: Start by creating a new questionnaire or form on the Kobo Toolbox platform.
-2. Configure Kobo Smiley:
+
+![image](https://github.com/JamesLeonDufour/kobo-smiley/assets/6214012/a0172731-1c24-4e2b-9ac8-634795b5c0f2)
+
+3. Configure Kobo Smiley:
 - Power up the Kobo Smiley terminal, which will function as an Access Point.
 - Connect to the terminal's Wi-Fi network.
+  
+![image](https://github.com/JamesLeonDufour/kobo-smiley/assets/6214012/b47ffc7a-c52a-44b8-a44e-0f395348c196)
+
+http://192.168.4.1/
+ 
 - Configure the terminal's Wi-Fi settings.
 - Input the necessary Kobo details, such as API keys or form identifiers.
-3. Reboot and Start Collecting Data:
+
+![image](https://github.com/JamesLeonDufour/kobo-smiley/assets/6214012/77ad5cdd-415a-4bd3-9683-bdcdc7234f4d)
+
+
+3. Save and it willReboot and Start Collecting Data:
 - The Kobo Smiley terminal will automatically reboot with the updated settings.
 - It will connect to the configured Wi-Fi network and become ready to use, enabling the collection of feedback and data.
 
@@ -35,9 +47,8 @@ To build your Kobo Smiley feedback terminal, you'll need the following component
 - Buttons, Resistors, Cables, and LEDs - Around $2 USD
 - 3D-Printed Casing (under development) - Estimated cost of $1.5 USD
 
-### to do
+### To do
 - add electronic schematic 
-- add image first mockup
 - 3D case
 
 ### Further development
@@ -45,7 +56,6 @@ To build your Kobo Smiley feedback terminal, you'll need the following component
 - custom PCB integrating board and circuitery
 - esp32 code
 - detailled instruction
-- add image
 - add lora capabilities for long distance transmission
 - Solar Powered option
   
