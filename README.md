@@ -1,7 +1,8 @@
 # Kobo Smiley
 Kobo Smiley is a DIY affordable, user-friendly feedback terminal built around the ESP8266 microcontroller, designed to work seamlessly with Kobo Toolbox https://www.kobotoolbox.org/ . This project provides a cost-effective solution (under $5 USD) for collecting feedback and survey responses with minimal hassle.
 
-![WhatsApp Image 2023-11-03 at 9 47 36 PM](https://github.com/JamesLeonDufour/kobo-smiley/assets/6214012/519b8b87-c7cd-4be1-94af-86395e9f9925)
+![WhatsApp Image 2023-11-03 at 9 47 36 PM](https://github.com/JamesLeonDufour/kobo-smiley/assets/6214012/5dd7d5bf-089f-4649-9a1f-c1956f826e96)
+
 
 ## Overview
 The Kobo Smiley terminal is a versatile feedback collection device. It powers up as an Access Point, allowing easy configuration via a captive portal. After setup, it can securely transmit data directly to the Kobo Toolbox API, making it an ideal choice for organizations and individuals looking to conduct surveys, gather feedback, or collect data.
@@ -17,20 +18,21 @@ https://www.kobotoolbox.org/
 ## Workflow
 1. Create a Kobo Form: Start by creating a new questionnaire or form on the Kobo Toolbox platform.
 
-![image](https://github.com/JamesLeonDufour/kobo-smiley/assets/6214012/a0172731-1c24-4e2b-9ac8-634795b5c0f2)
+![Screenshot 2023-11-04 121149](https://github.com/JamesLeonDufour/kobo-smiley/assets/6214012/64f429d3-7792-4abe-a214-16d079b02b6a)
+
 
 3. Configure Kobo Smiley:
 - Power up the Kobo Smiley terminal, which will function as an Access Point.
 - Connect to the terminal's Wi-Fi network.
   
-![image](https://github.com/JamesLeonDufour/kobo-smiley/assets/6214012/b47ffc7a-c52a-44b8-a44e-0f395348c196)
+![Screenshot 2023-11-04 121626](https://github.com/JamesLeonDufour/kobo-smiley/assets/6214012/d4a1e647-3ae5-4ee1-a679-3979b517676a)
 
 http://192.168.4.1/
  
 - Configure the terminal's Wi-Fi settings.
 - Input the necessary Kobo details, such as API keys, form identifiers, questions and answers label.
 
-![image](https://github.com/JamesLeonDufour/kobo-smiley/assets/6214012/77ad5cdd-415a-4bd3-9683-bdcdc7234f4d)
+![Screenshot 2023-11-04 122520](https://github.com/JamesLeonDufour/kobo-smiley/assets/6214012/91be5860-78db-48ad-8fc2-d5694c7c2a6c)
 
 
 3. Save and it willReboot and Start Collecting Data:
@@ -42,7 +44,8 @@ http://192.168.4.1/
 To build your Kobo Smiley feedback terminal, you'll need the following components:
 
 - ESP8266 Microcontroller (ESP32 code to be develloped) - Approximately $1.5 USD
-  <img width="108" alt="image" src="https://github.com/JamesLeonDufour/kobo-smiley/assets/6214012/f68aa2fe-2931-4594-a936-248f779ba379">
+
+![image](https://github.com/JamesLeonDufour/kobo-smiley/assets/6214012/8bf7dd7c-ef3e-4ec4-ae27-ee33a2879f38)
 
 - Buttons, Resistors, Cables, and LEDs - Around $2 USD
 - 3D-Printed Casing (under development) - Estimated cost of $1.5 USD
