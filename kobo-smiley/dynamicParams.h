@@ -39,8 +39,8 @@
 #define MAX_BLYNK_TOKEN_LEN       60
 
 char koboapi [MAX_BLYNK_SERVER_LEN + 1]  = "https://kc.kobotoolbox.org/api/v1/submissions.json";
-char koboformid  [MAX_BLYNK_TOKEN_LEN + 1]   = "aC3GwTDaD4YetzJg5CEjb6";
-char kobotoken [MAX_BLYNK_SERVER_LEN + 1]  = "f53a91f78a250c0ccbbade4e646a9694e01a3812";
+char koboformid  [MAX_BLYNK_TOKEN_LEN + 1]   = "YOURFORMID";
+char kobotoken [MAX_BLYNK_SERVER_LEN + 1]  = "YOURKOBOTOKEN";
 char question [MAX_BLYNK_SERVER_LEN + 1]  = "question";
 char optiona  [MAX_BLYNK_SERVER_LEN + 1]   = "good";
 char optionb  [MAX_BLYNK_SERVER_LEN + 1]   = "average";
