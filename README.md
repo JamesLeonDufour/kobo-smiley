@@ -2,7 +2,7 @@
 Kobo Smiley is a DIY affordable, user-friendly feedback terminal built around the ESP8266 microcontroller, designed to work seamlessly with Kobo Toolbox https://www.kobotoolbox.org/ . This project provides a cost-effective solution (under $5 USD) for collecting feedback and survey responses with minimal hassle.
 
 ![WhatsApp Image 2023-11-03 at 9 47 36 PM](https://github.com/JamesLeonDufour/kobo-smiley/assets/6214012/5dd7d5bf-089f-4649-9a1f-c1956f826e96)
-
+working mockup
 
 ## Overview
 The Kobo Smiley terminal is a versatile feedback collection device. It powers up as an Access Point, allowing easy configuration via a captive portal. After setup, it can securely transmit data directly to the Kobo Toolbox API, making it an ideal choice for organizations and individuals looking to conduct surveys, gather feedback, or collect data.
