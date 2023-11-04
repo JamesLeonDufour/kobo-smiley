@@ -28,7 +28,7 @@ https://www.kobotoolbox.org/
 http://192.168.4.1/
  
 - Configure the terminal's Wi-Fi settings.
-- Input the necessary Kobo details, such as API keys or form identifiers.
+- Input the necessary Kobo details, such as API keys, form identifiers, questions and answers label.
 
 ![image](https://github.com/JamesLeonDufour/kobo-smiley/assets/6214012/77ad5cdd-415a-4bd3-9683-bdcdc7234f4d)
 
