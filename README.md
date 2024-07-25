@@ -53,6 +53,7 @@ To build your Kobo Smiley feedback terminal, you'll need the following component
 ### To do
 - add electronic schematic 
 - 3D case
+![image](https://github.com/user-attachments/assets/630b93e3-f8b7-433e-b7f4-e0bc58cea810)
 
 ### Further development
 
